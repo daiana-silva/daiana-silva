@@ -1,7 +1,5 @@
 Hi, I'm Daiana! 👋🧬
 
-Bioinformatician | Microbial Genomics | WGS & Comparative Genomics
-
 I'm a biologist working at the intersection of molecular biology, microbial genomics and bioinformatics.
 
 My current focus is microbial bioinformatics, particularly the analysis of bacterial genomes and WGS data. I enjoy turning biological questions into reproducible computational analyses — and, whenever I find myself doing the same task repeatedly, turning the solution into a reusable tool.
@@ -29,12 +27,8 @@ Bioinformatics & Computing
 - Bash
 - Linux
 - Conda
-- NCBI resources & APIs
+- NCBI resources
 - Reproducible computational workflows
-
-Tools & Software
-
-Bakta · Prokka · Panaroo · Roary · kSNP3 · SPAdes · Snippy · BLAST · samtools · bcftools · seqkit · MEGA · FastQC · QUAST · pyANI · and others
 
 ---
 
@@ -48,21 +42,6 @@ Projects focused on answering biological questions using publicly available data
 
 → "View data analysis projects" (#)
 
-Examples of topics I explore:
-
-- Comparative genomics
-- Bacterial diversity and evolution
-- Phylogenomics
-- Pangenomics
-- Antimicrobial resistance
-- Virulence
-- Plasmids
-- Environmental and soil bacteria
-- Human and veterinary-associated bacteria
-- Plant-associated microorganisms
-
-«Each project documents the dataset, methodology, computational workflow, results and biological interpretation.»
-
 ---
 
 🛠️ Reusable Tools
@@ -70,18 +49,6 @@ Examples of topics I explore:
 Small tools and scripts developed to automate recurring bioinformatics tasks and make analyses more efficient and reproducible.
 
 → "View reusable tools" (#)
-
-Examples include:
-
-- Genome and metadata retrieval
-- Sequence manipulation
-- FASTA/FASTQ processing
-- Batch processing
-- File organization
-- Automated analysis steps
-- Data transformation and parsing
-
-«Tools are documented with their purpose, usage, parameters, examples and expected outputs.»
 
 ---
 
